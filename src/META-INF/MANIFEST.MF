@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: ./lib/akka-
+ kernel_2.10-2.2.1.jar ./lib/scala-library.jar ./lib/akka-actor_2.10-2.2.1.jar
+  ./lib/config-1.0.2.jar ./lib/akka-agent_2.10-2.2.1.jar
+Main-Class: com.akluev.timeserver.TimeServer
+
